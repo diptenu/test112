@@ -9,7 +9,7 @@
 
 ## Basics
 
-* [This Is test page](basics/this-is-test-page.md)
+* [HTML Introduction](basics/html-introduction.md)
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
