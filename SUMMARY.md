@@ -10,7 +10,8 @@
 ## Basics
 
 * [HTML Introduction](basics/html-introduction.md)
-* [Editor](basics/editor.md)
+* [HTML Editors](basics/editor/README.md)
+  * [Page](basics/editor/page.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
