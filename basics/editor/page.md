@@ -30,3 +30,4 @@ Visual Studio Code (VSCode) is a popular source-code editor developed by Microso
     A collection of useful code snippets for HTML development, this extension helps quickly insert common HTML structures and elements, making the coding process faster and more efficient.
 
 Implementing these extensions can help create a more efficient and enjoyable development experience when working with HTML in VSCode. Each tool brings unique features to the table, enhancing various aspects of HTML development, from coding efficiency and consistency to real-time feedback and file management.
+diptenu
