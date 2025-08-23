@@ -1,8 +1,10 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: >-
+  https://images.unsplash.com/photo-1753633206350-b9b982ff6d7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU5NDY0MDV8&ixlib=rb-4.1.0&q=85
+coverY: 1159.95530726257
 layout:
+  width: default
   cover:
     visible: true
     size: full
@@ -15,6 +17,8 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
     visible: true
 ---
 
