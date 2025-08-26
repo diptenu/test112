@@ -7,11 +7,11 @@ layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:

@@ -1,7 +1,6 @@
 ---
 description: HTML Introduction
 icon: '1'
-coverY: 0
 ---
 
 # HTML Introduction

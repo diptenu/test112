@@ -7,13 +7,17 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Basics <a href="#html" id="html"></a>
 
-* [HTML Introduction](basics/html-introduction.md)
-* [HTML Editors](basics/editor/README.md)
-  * [Page](basics/editor/page.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [HTML Introduction](html/html-introduction.md)
+* [HTML Editors](html/editor/README.md)
+  * [Page](html/editor/page.md)
+* [Markdown](html/markdown.md)
+* [Images & media](html/images-and-media.md)
+* [Interactive blocks](html/interactive-blocks.md)
+* [OpenAPI](html/openapi.md)
+* [Integrations](html/integrations.md)
+
+***
+
+* [Page 1](page-1.md)
