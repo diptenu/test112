@@ -1,6 +1,15 @@
 # Table of contents
 
 * [Welcome](README.md)
+  * ```yaml
+    type: builtin:translation
+    props: {}
+    dependencies:
+      translation:
+        ref:
+          kind: translation
+          translation: tr_bP2QS
+    ```
 
 ## Getting Started
 
